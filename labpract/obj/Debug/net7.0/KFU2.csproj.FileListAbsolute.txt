@@ -1,0 +1,14 @@
+C:\Users\Huawei\Documents\GitHub\KFU2\KFU2\labpract\bin\Debug\net7.0\KFU2.exe
+C:\Users\Huawei\Documents\GitHub\KFU2\KFU2\labpract\bin\Debug\net7.0\KFU2.deps.json
+C:\Users\Huawei\Documents\GitHub\KFU2\KFU2\labpract\bin\Debug\net7.0\KFU2.runtimeconfig.json
+C:\Users\Huawei\Documents\GitHub\KFU2\KFU2\labpract\bin\Debug\net7.0\KFU2.dll
+C:\Users\Huawei\Documents\GitHub\KFU2\KFU2\labpract\bin\Debug\net7.0\KFU2.pdb
+C:\Users\Huawei\Documents\GitHub\KFU2\KFU2\labpract\obj\Debug\net7.0\KFU2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Huawei\Documents\GitHub\KFU2\KFU2\labpract\obj\Debug\net7.0\KFU2.AssemblyInfoInputs.cache
+C:\Users\Huawei\Documents\GitHub\KFU2\KFU2\labpract\obj\Debug\net7.0\KFU2.AssemblyInfo.cs
+C:\Users\Huawei\Documents\GitHub\KFU2\KFU2\labpract\obj\Debug\net7.0\KFU2.csproj.CoreCompileInputs.cache
+C:\Users\Huawei\Documents\GitHub\KFU2\KFU2\labpract\obj\Debug\net7.0\KFU2.dll
+C:\Users\Huawei\Documents\GitHub\KFU2\KFU2\labpract\obj\Debug\net7.0\refint\KFU2.dll
+C:\Users\Huawei\Documents\GitHub\KFU2\KFU2\labpract\obj\Debug\net7.0\KFU2.pdb
+C:\Users\Huawei\Documents\GitHub\KFU2\KFU2\labpract\obj\Debug\net7.0\KFU2.genruntimeconfig.cache
+C:\Users\Huawei\Documents\GitHub\KFU2\KFU2\labpract\obj\Debug\net7.0\ref\KFU2.dll
